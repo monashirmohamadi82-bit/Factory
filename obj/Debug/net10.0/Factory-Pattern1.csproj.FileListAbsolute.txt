@@ -1,0 +1,14 @@
+E:\cood C#\Factory-Pattern1\bin\Debug\net10.0\Factory-Pattern1.exe
+E:\cood C#\Factory-Pattern1\bin\Debug\net10.0\Factory-Pattern1.deps.json
+E:\cood C#\Factory-Pattern1\bin\Debug\net10.0\Factory-Pattern1.runtimeconfig.json
+E:\cood C#\Factory-Pattern1\bin\Debug\net10.0\Factory-Pattern1.dll
+E:\cood C#\Factory-Pattern1\bin\Debug\net10.0\Factory-Pattern1.pdb
+E:\cood C#\Factory-Pattern1\obj\Debug\net10.0\Factory-Pattern1.GeneratedMSBuildEditorConfig.editorconfig
+E:\cood C#\Factory-Pattern1\obj\Debug\net10.0\Factory-Pattern1.AssemblyInfoInputs.cache
+E:\cood C#\Factory-Pattern1\obj\Debug\net10.0\Factory-Pattern1.AssemblyInfo.cs
+E:\cood C#\Factory-Pattern1\obj\Debug\net10.0\Factory-Pattern1.csproj.CoreCompileInputs.cache
+E:\cood C#\Factory-Pattern1\obj\Debug\net10.0\Factory-Pattern1.dll
+E:\cood C#\Factory-Pattern1\obj\Debug\net10.0\refint\Factory-Pattern1.dll
+E:\cood C#\Factory-Pattern1\obj\Debug\net10.0\Factory-Pattern1.pdb
+E:\cood C#\Factory-Pattern1\obj\Debug\net10.0\Factory-Pattern1.genruntimeconfig.cache
+E:\cood C#\Factory-Pattern1\obj\Debug\net10.0\ref\Factory-Pattern1.dll
